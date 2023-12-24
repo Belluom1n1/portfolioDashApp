@@ -1,6 +1,6 @@
 [tool.ruff]
-# Decrease Max line length to 79 characters
-line-length = 79
+# Decrease Max line length to 120 characters
+line-length = 120
 src = ["src"]
 select = [
     "E",    # pycodestyle
