@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-    --> Brian Belluomini
+    --> NAME
         > Avatar Element for web-app
         > Will display a shamm thumbnail picture of myself
         > Date: 08/08/2023
