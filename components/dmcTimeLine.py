@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-    --> Brian Belluomini
+    --> NAME
         > Timeline Component to outline projects
         > Styled with dash_mantine_components
         > Date: 08/08/2023
