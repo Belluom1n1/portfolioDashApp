@@ -42,7 +42,7 @@ layout = dbc.Container([
                                 dmc.Col(
                                     html.Div(
                                         [
-                                            html.H2('Brian Belluomini', id= 'h2', className= 'mb-1'),
+                                            html.H2(' NAME ', id= 'h2', className= 'mb-1'),
                                             dcc.Markdown('#### _Student of Mechanical Engineering_', id= 'h5-sub', style= {'font-weight': 200}),
                                             html.Hr(className= 'mt-2 mb-3'),
                                         ]
@@ -102,7 +102,7 @@ layout = dbc.Container([
                                                                                 dmc.Container(
                                                                                     [
                                                                                         html.Iframe(id= 'embedded-pdf',
-                                                                                                    src= '/assets/Resume_Belluomini.pdf',
+                                                                                                    src= '/assets/Resume.pdf',
                                                                                                     width= '480',
                                                                                                     height= '730',
                                                                                                     style= {'width': '100%', 'align': 'center'}),
@@ -150,7 +150,7 @@ layout = dbc.Container([
                                                         # + ---- LinkedIn Item ---- +
                                                         dbc.AccordionItem(
                                                             [
-                                                                html.A(html.I(className= 'p-1 ms-1 fa-brands fa-linkedin fa-xl', style= {'color': '#6184f4'}), href= "https://linkedin.com/in/bbelluomini", target= '_blank'),
+                                                                html.A(html.I(className= 'p-1 ms-1 fa-brands fa-linkedin fa-xl', style= {'color': '#6184f4'}), href= " LinkedIn ", target= '_blank'),
                                                                 "   You can view my LinkedIn profile by using the link embedded in this icon.",
                                                             ],
                                                             title= 'LinkedIn',
